@@ -1,2 +1,1 @@
-# functional-mixins
-Functional Mixins
+# Functional Mixins
