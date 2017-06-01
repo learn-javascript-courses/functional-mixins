@@ -12,7 +12,7 @@
 
 ```
 git clone git@github.com:learn-javascript-courses/es6-curry.git
-cd es6-curry
+cd functional-mixins
 # open folder in your favorite text editor
 # atom .
 # subl .
