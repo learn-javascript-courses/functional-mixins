@@ -11,8 +11,8 @@
 ## Follow Along
 
 ```
-git clone git@github.com:learn-javascript-courses/es6-curry.git
-cd es6-curry
+git clone git@github.com:learn-javascript-courses/functional-mixins.git
+cd functional-mixins
 # open folder in your favorite text editor
 # atom .
 # subl .
