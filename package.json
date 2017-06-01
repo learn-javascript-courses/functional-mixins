@@ -1,0 +1,28 @@
+{
+  "name": "functional-mixins",
+  "version": "1.0.0",
+  "description": "Functional Mixins Tuturial",
+  "main": "source/index.js",
+  "scripts": {
+    "lint": "eslint source",
+    "test": "babel-node source/index.test.js",
+    "watch": "watch 'clear && npm run -s lint && npm run -s test' source"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/learn-javascript-courses/functional-mixins.git"
+  },
+  "author": "Eric Elliott",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/learn-javascript-courses/functional-mixins/issues"
+  },
+  "homepage": "https://github.com/learn-javascript-courses/functional-mixins#readme",
+  "devDependencies": {
+    "babel-cli": "6.24.1",
+    "babel-preset-es2015": "6.24.1",
+    "eslint": "3.19.0",
+    "tape": "4.6.3",
+    "watch": "1.0.2"
+  }
+}
